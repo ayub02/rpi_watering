@@ -48,3 +48,4 @@ time.sleep(duration)
 print("Setting low")
 GPIO.output(settings['pin_out'], GPIO.LOW)
 print(duration)
+
